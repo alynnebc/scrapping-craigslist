@@ -15,7 +15,7 @@ from craigslist.items import CraigslistItem
 
 class CraigslistImagePipeline:
     def process_item(self, item, spider):
-        os.chdir('./craigslist/images')
+        os.chdir('./scrapping-craigslist/images')
 
         if not isinstance(item, CraigslistItem):
             return item
