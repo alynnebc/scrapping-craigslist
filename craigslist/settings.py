@@ -67,7 +67,7 @@ ITEM_PIPELINES = {
    'craigslist.pipelines.CraigslistImagePipeline': 2
 }
 
-IMAGES_STORE = './craigslist/images'
+IMAGES_STORE = './scrapping-craigslist/images'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
