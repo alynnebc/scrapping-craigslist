@@ -1,6 +1,6 @@
 # Scrapping Job Offers in Craigslist
 
-This project scrape data about Engineering job offers in New York City from [craiglist.com](https://newyork.craigslist.org/search/egr) using Scrapy, a framework for extracting the data from websites.
+This project scrape data about Engineering job offers in New York City from [craigslist.com](https://newyork.craigslist.org/search/egr) using Scrapy, a framework for extracting the data from websites.
 
 The project has one spider able to scrape the textual and image data of all Engineering job offers in New York City.
 
